@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "uB91xojkOSM6I7Txkze/UEhtDzXA5WO+B7J3mB0xsEeEHuN9mKcB5XxddCYvWBNacsmvIkLSuWiEsQGpz/rGJw==",
+  "success": true,
+  "projectFilePath": "C:\\src\\Personal\\HappyPlants\\Software\\web2\\HappyPlants\\HappyPlants.BackEnd\\HappyPlants.Services\\HappyPlants.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\automapper.collection\\9.0.0\\automapper.collection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\couchdb.net\\3.3.1\\couchdb.net.3.3.1.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\couchdb.net.dependencyinjection\\3.3.1\\couchdb.net.dependencyinjection.3.3.1.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\flurl\\3.0.2\\flurl.3.0.2.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\flurl.http\\3.2.0\\flurl.http.3.2.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\humanizer.core\\2.11.10\\humanizer.core.2.11.10.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.0\\microsoft.aspnetcore.connections.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\7.0.0\\microsoft.aspnetcore.signalr.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\7.0.0\\microsoft.aspnetcore.signalr.protocols.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.26\\microsoft.extensions.dependencyinjection.3.1.26.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.extensions.features\\7.0.0\\microsoft.extensions.features.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Chris-Work\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+
+<div [ngStyle]="{'border-color': plantFriend?.id === undefined ? 'green' : 'red'}" style="border: dotted; margin-bottom: 10px;">
+  <ng-container *ngIf="plantFriend">
+    <ng-container [ngSwitch]="operation">
+      <ng-container *ngSwitchCase="operationType.View">
+        <button type="button" (click)="toggleEdit()">{{viewButtonText}}</button>
+        <h1>{{plantFriend.friendlyName}}</h1>
+        <p>We know about plant {{plantFriend.friendlyName}}!</p>
+      </ng-container>
+
+      <ng-container *ngSwitchCase="operationType.Edit">
+        <label for="plantFriendlyName">Name:</label>
+        <input id="plantFriendlyName" type="text" [(ngModel)]="plantFriend.friendlyName" />
+        <button (click)="saveChanges()" ngView>Save</button>
+        <button (click)="discardChanges()" ngView>Discard</button>
+      </ng-container>
+    </ng-container>
+  </ng-container>
+</div>
+
+<p>plant works!</p>

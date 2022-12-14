@@ -1,0 +1,9 @@
+<button type="button" class="button" (click)="addNewPlant()">Add new plant</button>
+
+<ng-container *ngIf="showAddNewPlant">
+  <plant [operation]="operationType.Add"></plant>
+</ng-container>
+
+<ng-container *ngIf="plants">
+  <plant *ngFor="let plant of plants | async" [plantFriend]="plant"></plant>
+</ng-container>
